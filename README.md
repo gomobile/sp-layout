@@ -3,7 +3,7 @@ Designer is included in the Intel(R) XDK.
 
 Intel(R) XDK NEW
 -------------------------------------------
-Please visit http://software.intel.com/en-us/html5 to learn more about the Intel(R) XDK.
+Please visit http://software.intel.com/en-us/html5 to learn more about the Intel(R) XDK NEW.
 
 Application Files
 -----------------

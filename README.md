@@ -1,5 +1,5 @@
 This project is the starting point for the App Designer Layout tutorial and video. The App
-Designer is included in the Intel(R) XDK.
+Designer is included in the Intel(R) XDK NEW.
 
 Intel(R) XDK NEW
 -------------------------------------------
